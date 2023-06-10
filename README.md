@@ -1,4 +1,4 @@
-# euterpe
+# Euterpe
 A collection of ancient Greek texts in plain Unicode format written before 1453 CE
 
 This repository contains the ancient Greek texts I have been able to scan in and correct from out of copyright sources, focusing initially on my research interest in the Greek novel. However, expansion to cover all ancient Greek texts, including scholia, inscriptions and documentary papyri is planned. A search engine will then be added to quickly find Greek phrases or word usages within the collection, including proper names, which are the only words allowed in the transcriptions to begin with capital letters. The transcriptions are augmented by an unobtrustive referencing system, based on the traditional names for subdivisions found in print editions, which will allow the works to be reliably cited.
