@@ -1,3 +1,0 @@
-# Copyright of ancient Greek works
-In principle the works of the ancient Greeks are not copyright. Their authors died long ago. In France, Germany and the UK copyright law states that for editions of posthumous works copyright expires 25 years after the date of publication. This rule doesn't cover translations, indices or introductions, and may not even cover the textual apparatus, although that is also an 'arrangement of text', not a 'work of the spirit'. In any case the apparatus is not needed. It would interfere with searching, and would greatly complicate the scanning and proofing of transcriptions. Anyone who wants to consult it can refer to the print edition on which the digital transcription is based.
-
