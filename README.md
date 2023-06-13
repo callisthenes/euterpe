@@ -9,4 +9,4 @@ Existing archives and commercial publishers seek to control in some way the patr
 ## Inverse Greek-English lexicon
 These transcriptions will also form the basis for an inverse Greek-English lexicon (which could also be later expanded to other languages) which turns inside out the traditional lexicon format by linking word forms as they occur in the text to their headwords, not the other way around. A user of such a lexicon would only have to enter the word they see on the page, perhaps restricted by author, to see its correct part of speech and local meaning. This will greatly reduce the amount of knowledge that people need to acquire before they begin to learn ancient Greek. 
 
-It is also a necessary prequisite for enabling machine translation. If these precious texts are to survive in a modern world we will have to tell a machine what each word-form, each apostrophised word, and each crasis means. 
+It is also a necessary prequisite for enabling machine translation. If these ancient texts are to survive in a modern world we will have to tell a machine what each word-form, each apostrophised word, and each crasis means. 
