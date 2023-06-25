@@ -31,7 +31,7 @@ Quotations on two levels are supported. «...» is used for the first level, and
 Successive paragraphs in a quotation repeat the relevant quotation marks at the start and end of the paragraph. Editions using a single quotation mark only at paragraph-start have been normalised to this convention.
 
 ## Paragraphs
-Paragraphs are marked either by a preceding newline or by two spaces at line-start. If a reference begins the line, two spaces after the reference should be interpreted as starting anew paragraph.
+Paragraphs are marked either by a preceding newline or by two spaces at line-start. If a reference begins the line, two spaces _after_ the reference indicates a new paragraph.
 
 ### Apostrophes
 The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF). All breathing marks are combined with the letter to which they refer, e.g. ᾽Α is always encoded as Ἀ.
