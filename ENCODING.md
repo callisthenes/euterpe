@@ -11,7 +11,7 @@ Ancient Greek texts are traditionally subdivided on two or three levels: for exa
 The name of a file, minus its extension, is taken as the topmost division of a work. e.g. VI.txt is the name of book 6 or VI of the Iliad. Prose works have the extension .md to allow for line-wrapping on github, but follow the same plain text format, i.e. they are _not_ in markdown format.
 
 ### Chapters and sections
-Since Greek texts themselves contain no Arabic numbers or Latin letters, these characters can be used as a reference system without recourse to explicit markup. This is so that in future, if any markup technology becomes obsolete, the text will still be readable in the current technology, or can be easily adapted to it.  This also ensures that the transcriptions are readable by humans.
+Since Greek texts themselves contain no Arabic numbers or Latin letters, these characters can be used as a reference system without recourse to explicit markup. This is so that in future, if any markup technology becomes obsolete, the text will still be readable in the current technology, or can be easily adapted to it. This also ensures that the transcriptions are readable by humans.
 
 ### Default numbering
 The default reference system uses alternating Roman and arabic numbers where they are used in the original printed text. Print conventions are followed wherever possible, the default numbering being used whenever there is no standard between editions. So in the default numbering system 3.V.34 would mean 'book 3, chapter 5, section 34'. This may be overridden in cases where other symbols are consistently used for subdivisions, such as single Roman letters for sections in Plato. Numbers in the Alexandrian numbering system, i.e. Greek lower or uppercase letters followed by prime (′) are normalised as Roman or arabic numbers. 
@@ -26,7 +26,9 @@ Line numbers need not be supplied for each line. Normally in print editions thes
 Any line separated from the surrounding text by blank lines before and after (or at the start of the text) and containing a majority of Latin characters or arabic numbers are interpreted as titles of short works within one file.
 
 ## Quotations
-Quotations on two levels are supported. «...» is used for the first level, and ‹...› for the second level (nested quotations). The reason for using the French convention is that standard English and American usage requires single-quotes for apostrope, which cannot be distinguished from quotation marks at the first or second level.
+Quotations on two levels are supported. «...» is used for the first level, and ‹...› for the second level (nested quotations). The reason for using the French convention is that standard English and American usage requires single-quotes for apostrope, which cannot be distinguished from quotation marks at the first or second level. Although the German use of single quotation marks does distinguish the apostrophe from the closing quotation mark, it is still less clear than the French convention.
+
+Successive paragraphs in a quotation repeat the quotation marks at the start and end of the paragraph. Editions that using a single double-quotation mark at the start only have been normalised to this convention.
 
 ### Apostrophes
 The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF). All breathing marks are combined with the letter, e.g. ᾽Α is always encoded as Ἀ.
@@ -35,4 +37,4 @@ The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not
 Proper names and proper adjectives start with a capital letter. No other words, either at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. Transcriptions of print editions not following this convention have been normalised.
 
 ## Accentuation
-The accentuation rules follow those specified in Goodwin's Greek grammar (1894). Double-acutes on successive syllables are not allowed. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). Print editions not following these conventions have been normalised.
+The accentuation rules follow those specified in Goodwin's Greek grammar (1894). Double-acutes on successive syllables are not permitted. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). Print editions not following these conventions have been normalised.
