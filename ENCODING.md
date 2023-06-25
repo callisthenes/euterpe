@@ -2,7 +2,7 @@
 The Euterpe texts are encoded in standard Unicode, and contain no explicit markup. 
 
 ## Copyright
-All transcriptions (excluding translations) are, unless specified otherwise, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). In layman's terms this means that the transcriptions can be reused for any purpose whatsoever, including commercially, as long as the source of the transcriptions is acknowledged in the derived work. No guarantee as to their accuracy is provided. To facilitate reuse, the usual practice of adding the copyright notice at the start of each file has been dispensed with. However, this should _not_ be taken to mean that the license does not apply to it.
+All transcriptions (excluding translations) are, unless specified otherwise, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). No guarantee as to their accuracy is provided. To facilitate reuse, the usual practice of adding the copyright notice at the start of each file has been dispensed with. However, this should _not_ be taken to mean that the license does not apply to it.
 
 ## References
 Ancient Greek texts are traditionally subdivided on two or three levels: for example, the familiar 'chapter and verse' of the New Testament is a two-level system. However, quite often we find works divided by book, chapter and section, for example, in Plato. Euterpe follows these conventions because otherwise existing references to classical texts could not be found in the corpus.
