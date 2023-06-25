@@ -20,10 +20,10 @@ The default reference system uses alternating Roman and arabic numbers where the
 References normally appear at the start of a line or paragraph. However, since lines in print editions of prose works are are joined together, and all hyphenation removed, references may also appear within a line. In print editions a number or letter in the margin indicates a break at the first major punctuation character, but there might be several such marks. Moving them inline, as in the Budé editions, removes this ambiguity. Transcriptions of print editions not conforming to this rule have been altered in conformance with it.
 
 ### Line numbers
-Line numbers need not be supplied for each line. Normally in print editions these occur at five-line intervals. Euterpe follows this convention, so an unnumbered line two lines after one labelled 235 would be line 237. Exceptions occur when the traditional line-numbering has been altered by the editor. In such cases explicit line numbers for the re-ordered lines can be used, which reset the sequential line-numbering, exactly as in the print edition.
+Line numbers need not be supplied for each line. Normally in print editions these occur at five-line intervals. Euterpe follows this convention. However, wherever the traditional line-numbering has been altered by the editor, explicit line numbers for the re-ordered lines may be added to reset the usual line-numbering. In this it follows the usual print convention.
 
 ## Titles
-Any line separated from the surrounding text by blank lines before and after (or at the start of the text) containing no Greek characters are interpreted as titles of short works within one file.
+Lines containing no Greek text, separated from the surrounding text by a blank line before (or if the title is at the start of a file), and one blank line after, are interpreted as titles of short works.
 
 ## Quotations
 Quotations on two levels are supported. «...» is used for the first level, and ‹...› for the second level (nested quotations). The reason for using the French convention is that standard English and American usage requires single-quotes for apostrope, which cannot be distinguished from quotation marks at the first or second level. Although the German use of single quotation marks does distinguish the apostrophe from the closing quotation mark, it is still less clear than the French convention.
