@@ -20,7 +20,7 @@ The default reference system uses alternating Roman and arabic numbers where the
 References normally appear at the start of a line or paragraph. However, since lines in print editions of prose works are are joined together, and all hyphenation removed, references may also appear within a line. In print editions a number or letter in the margin indicates a break at the first major punctuation character, but there might be several. Moving them inline, as in the Bude editions, removes this ambiguity. Transcriptions of print editions not conforming to this rule have been altered in conformance with it.
 
 ### Line numbers
-Line numbers need not be supplied for each line. Normally in print editions these are provided at 5-line intervals. Euterpe follows this convention, so a line two lines after one explicitly number 235 is line 237. Exceptions occur when the traditional line-numbering has been altered by the editor. In such cases explicit line numbers for the re-ordered lines can be used, which reset the sequential line-numbering, exactly as in the print edition.
+Line numbers need not be supplied for each line. Normally in print editions these are provided at 5-line intervals. Euterpe follows this convention, so an unnumbered line two lines after one labelled 235 would be line 237. Exceptions occur when the traditional line-numbering has been altered by the editor. In such cases explicit line numbers for the re-ordered lines can be used, which reset the sequential line-numbering, exactly as in the print edition.
 
 ## Titles
 Any line separated from the surrounding text by blank lines before and after (or at the start of the text) and containing a majority of Latin characters or arabic numbers are interpreted as titles of short works within one file.
