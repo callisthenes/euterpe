@@ -17,10 +17,10 @@ Since Greek texts themselves contain no Arabic numbers or Latin letters, these c
 The default reference system uses alternating Roman and arabic numbers where they are used in the original printed text. Print conventions are followed wherever possible, the default numbering being used if there is no standard between editions. So in the default numbering system 3.V.34 would mean 'book 3, chapter 5, section 34'. This may be overridden in cases where other symbols are consistently used for subdivisions, such as single Roman letters for sections in Plato. Numbers in the Alexandrian numbering system, i.e. Greek lower or uppercase letters followed by prime (′) are normalised as Roman or arabic numbers. 
 
 ### Position
-References normally appear at the start of a line or paragraph. However, since lines in print editions of prose works are joined together, and all hyphenation removed, references may also appear within a line. In print editions a number or letter in the margin indicates a break at the first major punctuation character, but there might be several such marks. Moving references inline, as in the Budé editions, removes this ambiguity. Transcriptions of print editions not conforming to this rule have been altered in conformance with it.
+References normally appear at the start of a line or paragraph. However, since lines in print editions of prose works are joined together, and all hyphenation removed, references may also appear within a line. In print editions a number or letter in the margin indicates a break at the first major punctuation character, but there might be several such marks. Moving references inline, as in the Budé editions, removes this ambiguity. If a section number occurs at line start it is followed by a single space, or two spaces if it marks the start of a new paragraph and the paragraph is not already marked by a preceding blank line. 
 
 ### Line numbers
-Line numbers need not be supplied for each line. Normally in print editions these occur at five-line intervals. Euterpe follows this convention. However, wherever the traditional line-numbering has been altered by the editor, explicit line numbers for the re-ordered lines may be added to reset the usual line-numbering. In this it follows the usual print convention.
+Line numbers need not be supplied for each line. Normally in print editions they ar given at five-line intervals. Euterpe follows this convention, except that a single space always follows a line number. Wherever the traditional line-numbering has been altered by the editor, explicit line numbers for the re-ordered lines may be added to reset the usual line-numbering. 
 
 ## Titles
 Lines containing no Greek text, separated from the surrounding text by a blank line before (or if the title is at the start of a file), and one blank line after, are interpreted as titles of short works.
@@ -40,6 +40,5 @@ The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not
 Proper names and proper adjectives start with a capital letter. No other words, either at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. Transcriptions of print editions not following this convention have been normalised.
 
 ## Accentuation
-The accentuation rules follow those specified in Goodwin's Greek grammar (1894). Double-acutes on successive syllables are not permitted. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). Print editions not following these conventions have been normalised.
-
+The accentuation rules follow those specified in Goodwin's Greek grammar (1894). Double-acutes on successive syllables are not permitted. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). 
 
