@@ -1,11 +1,14 @@
 # Plain text format
 The Euterpe texts are encoded in standard Unicode, and contain no explicit markup. 
 
+## Copyright
+All transcriptions (excluding translations) are, unless specified otherwise, licensed under the Creative Commons Attribution 4.0 International License. In layman's terms this means that the transcriptions can be reused for any purpose whatsoever, including commercially, as long as the source of the transcriptions is acknowledged in the derived work. No guarantee as to their accuracy is provided. To facilitate reuse, the usual practice of adding the copyright notice at the start of each file has been dispensed with. However, this should _not_ be taken to mean that the license does not apply to it.
+
 ## References
-Ancient Greek texts are traditionally subdivided on two or three levels: for example, the familiar 'chapter and verse' of the New Testament. However, quite often we find works divided by book, chapter and section, for example, Plato. Euterpe follows these conventions because otherwise existing references to classical texts could not be found in the corpus.
+Ancient Greek texts are traditionally subdivided on two or three levels: for example, the familiar 'chapter and verse' of the New Testament. However, quite often we find works divided by book, chapter and section, for example, in Plato. Euterpe follows these conventions because otherwise existing references to classical texts could not be found in the corpus.
 
 ### File names
-The name of a file, minus its extension, is taken as the topmost division of a work. e.g. VI.txt is the name of book 6 or VI of the Iliad.
+The name of a file, minus its extension, is taken as the topmost division of a work. e.g. VI.txt is the name of book 6 or VI of the Iliad. Prose works have the extension .md to allow for line-wrapped on github, but are otherwise the same as plain text.
 
 ### Chapters and sections
 Since Greek texts themselves contain no Arabic numbers or Latin letters, these characters can be used as a reference system without recourse to explicit markup. This is so that in future, if any markup technology becomes obsolete, so long as Unicode does not disappear, the text will still be readable in the current technology, or can be easily adapted to it.  This also ensures that the transcriptions are readable by humans.
