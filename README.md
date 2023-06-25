@@ -1,5 +1,5 @@
 # Euterpe
-This is a collection of ancient Greek texts in plain Unicode format written before 1453 CE.
+Euterpe is a collection of ancient Greek texts in plain Unicode format written before 1453 CE.
 
 This repository contains the ancient Greek texts I have been able to scan in and correct from out of copyright sources, focusing initially on my research interest in the Greek novel. However, expansion to cover all ancient Greek texts, including scholia, inscriptions and documentary papyri is planned. A search engine will then be added to quickly find Greek phrases or word usages within the collection, including proper names. The transcriptions are augmented by an unobtrustive referencing system, based on the traditional names for subdivisions found in print editions, which will allow the works to be reliably cited.
 
@@ -14,9 +14,11 @@ It is also a necessary prequisite for enabling machine translation. If these anc
 ## Correction status
 There are three correction grades:
 
-1. Bronze -- transcription direct from OCR has been edited by a human and proofread. The 
+1. Bronze — transcription direct from OCR has been edited by a human and proofread. The 
 transcription is checked for double accents and corrected if any illegal ones are found.
-2. Silver -- a vocabulary is built and checked by a human against the original pages
-3. Gold -- Each word is looked up in a lexicon and its meaning and part of speech determined and 
+2. Silver — a vocabulary is built and checked by a human against the original pages
+3. Gold — Each word is looked up in a lexicon and its meaning and part of speech determined and 
 recorded in the inverse Greek-English lexicon. At this stage the quality of the transcription 
 is about the same as that of a print edition, and maybe better.
+
+The manifest.json file in each directory records the source of the transcriptions, and their correction status.
