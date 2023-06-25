@@ -30,6 +30,9 @@ Quotations on two levels are supported. «...» is used for the first level, and
 
 Successive paragraphs in a quotation repeat the relevant quotation marks at the start and end of the paragraph. Editions using a single quotation mark only at paragraph-start have been normalised to this convention.
 
+## Paragraphs
+Paragraphs are marked either by a preceding newline or by two spaces at line-start. If a reference begins the line, two spaces after the reference should be interpreted as starting anew paragraph.
+
 ### Apostrophes
 The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF). All breathing marks are combined with the letter to which they refer, e.g. ᾽Α is always encoded as Ἀ.
 
@@ -38,3 +41,5 @@ Proper names and proper adjectives start with a capital letter. No other words, 
 
 ## Accentuation
 The accentuation rules follow those specified in Goodwin's Greek grammar (1894). Double-acutes on successive syllables are not permitted. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). Print editions not following these conventions have been normalised.
+
+
