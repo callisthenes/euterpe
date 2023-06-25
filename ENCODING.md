@@ -20,15 +20,15 @@ The default reference system uses alternating Roman and arabic numbers where the
 References normally appear at the start of a line or paragraph. However, since lines in print editions of prose works are joined together, and all hyphenation removed, references may also appear within a line. In print editions a number or letter in the margin indicates a break at the first major punctuation character, but there might be several such marks. Moving references inline, as in the Budé editions, removes this ambiguity. If a section number occurs at line start it is followed by a single space, or two spaces if it marks the start of a new paragraph and the paragraph is not already marked by a preceding blank line. 
 
 ### Line numbers
-Line numbers need not be supplied for each line. Normally in print editions they ar given at five-line intervals. Euterpe follows this convention, except that a single space always follows a line number. Wherever the traditional line-numbering has been altered by the editor, explicit line numbers for the re-ordered lines may be added to reset the usual line-numbering. 
+Line numbers need not be supplied for each line. Normally in print editions they are given at five-line intervals. Euterpe follows this convention, except that a single space always follows a line number. Wherever the traditional line-numbering has been altered by the editor, explicit line numbers for the re-ordered lines may be added to reset the usual line-numbering. 
 
 ## Titles
 Lines containing no Greek text, separated from the surrounding text by a blank line before (or if the title is at the start of a file), and one blank line after, are interpreted as titles of short works.
 
 ## Quotations
-Quotations on two levels are supported. «...» is used for the first level, and ‹...› for the second level (nested quotations). The reason for using the French convention is that standard English and American usage requires single-quotes for apostrope, which cannot be distinguished from quotation marks at the first or second level. Although the German use of single quotation marks does distinguish the apostrophe from the closing quotation mark, it is still less clear than the French convention.
+Quotations on two levels are supported. «...» is used for the first level, and ‹...› for the second level (nested quotations). The reason for using the French convention is that standard English and American usage requires single-quotes for apostrophe, which cannot be distinguished from quotation marks at the first or second level. Although the German use of single quotation marks does distinguish the apostrophe from the closing quotation mark, it is still less clear than the French convention.
 
-Successive paragraphs in a quotation repeat the relevant quotation marks at the start and end of the paragraph. Editions using a single quotation mark only at paragraph-start have been normalised to this convention.
+Successive paragraphs in a quotation repeat the relevant quotation marks at the start and end of the paragraph. 
 
 ## Paragraphs
 Paragraphs are marked either by a preceding newline or by two spaces at line-start. If a reference begins the line, two spaces _after_ the reference indicates a new paragraph.
@@ -37,8 +37,7 @@ Paragraphs are marked either by a preceding newline or by two spaces at line-sta
 The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF). All breathing marks are combined with the letter to which they refer, e.g. ᾽Α is always encoded as Ἀ.
 
 ## Proper names
-Proper names and proper adjectives start with a capital letter. No other words, either at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. Transcriptions of print editions not following this convention have been normalised.
-
+Proper names and proper adjectives start with a capital letter. No other words, either at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. 
 ## Accentuation
 The accentuation rules follow those specified in Goodwin's Greek grammar (1894). Double-acutes on successive syllables are not permitted. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). 
 
