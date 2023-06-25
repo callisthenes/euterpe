@@ -2,10 +2,10 @@
 The Euterpe texts are encoded in standard Unicode, and contain no explicit markup. 
 
 ## Copyright
-All transcriptions (excluding translations) are, unless specified otherwise, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). No guarantee as to their accuracy is provided. To facilitate reuse, the usual practice of adding the copyright notice at the start of each file has been dispensed with. However, this should _not_ be taken to mean that the license does not apply to it.
+All transcriptions (excluding translations) are, unless specified otherwise, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). To facilitate reuse, the usual practice of adding the copyright notice at the start of each file has been dispensed with. However, this should _not_ be taken to mean that the license does not apply to it.
 
 ## References
-Ancient Greek texts are traditionally subdivided on two or three levels: for example, the familiar 'chapter and verse' of the New Testament is a two-level system. However, quite often we find works divided by book, chapter and section, for example, in Plato. Euterpe follows these conventions because otherwise existing references to classical texts could not be found in the corpus.
+Ancient Greek texts are traditionally subdivided on two or three levels: for example, the familiar 'chapter and verse' of the New Testament is a two-level system. However, quite often works are divided by book, chapter and section, for example, in Plato. Euterpe follows these conventions because otherwise existing references to classical texts could not be found in the corpus.
 
 ### File names
 The name of a file, minus its extension, is taken as the topmost division of a work. e.g. VI.txt is the name of book 6 or VI of the Iliad. Prose works have the extension .md to force line-wrapping on github, but follow the same plain text format, i.e. they are _not_ in markdown format.
@@ -17,7 +17,7 @@ Since Greek texts themselves contain no Arabic numbers or Latin letters, these c
 The default reference system uses alternating Roman and arabic numbers where they are used in the original printed text. Print conventions are followed wherever possible, the default numbering being used if there is no standard between editions. So in the default numbering system 3.V.34 would mean 'book 3, chapter 5, section 34'. This may be overridden in cases where other symbols are consistently used for subdivisions, such as single Roman letters for sections in Plato. Numbers in the Alexandrian numbering system, i.e. Greek lower or uppercase letters followed by prime (′) are normalised as Roman or arabic numbers. 
 
 ### Position
-References normally appear at the start of a line or paragraph. However, since lines in print editions of prose works are are joined together, and all hyphenation removed, references may also appear within a line. In print editions a number or letter in the margin indicates a break at the first major punctuation character, but there might be several such marks. Moving them inline, as in the Budé editions, removes this ambiguity. Transcriptions of print editions not conforming to this rule have been altered in conformance with it.
+References normally appear at the start of a line or paragraph. However, since lines in print editions of prose works are joined together, and all hyphenation removed, references may also appear within a line. In print editions a number or letter in the margin indicates a break at the first major punctuation character, but there might be several such marks. Moving references inline, as in the Budé editions, removes this ambiguity. Transcriptions of print editions not conforming to this rule have been altered in conformance with it.
 
 ### Line numbers
 Line numbers need not be supplied for each line. Normally in print editions these occur at five-line intervals. Euterpe follows this convention. However, wherever the traditional line-numbering has been altered by the editor, explicit line numbers for the re-ordered lines may be added to reset the usual line-numbering. In this it follows the usual print convention.
