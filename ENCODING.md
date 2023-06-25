@@ -28,10 +28,10 @@ Any line separated from the surrounding text by blank lines before and after (or
 ## Quotations
 Quotations on two levels are supported. «...» is used for the first level, and ‹...› for the second level (nested quotations). The reason for using the French convention is that standard English and American usage requires single-quotes for apostrope, which cannot be distinguished from quotation marks at the first or second level. Although the German use of single quotation marks does distinguish the apostrophe from the closing quotation mark, it is still less clear than the French convention.
 
-Successive paragraphs in a quotation repeat the quotation marks at the start and end of the paragraph. Editions that using a single double-quotation mark at the start only have been normalised to this convention.
+Successive paragraphs in a quotation repeat the relevant quotation marks at the start and end of the paragraph. Editions using a single quotation mark only at paragraph-start have been normalised to this convention.
 
 ### Apostrophes
-The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF). All breathing marks are combined with the letter, e.g. ᾽Α is always encoded as Ἀ.
+The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF). All breathing marks are combined with the letter to which they refer, e.g. ᾽Α is always encoded as Ἀ.
 
 ## Proper names
 Proper names and proper adjectives start with a capital letter. No other words, either at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. Transcriptions of print editions not following this convention have been normalised.
