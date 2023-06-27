@@ -27,7 +27,7 @@ The default reference system uses alternating Roman and arabic numbers where the
 References normally appear at the start of a line or paragraph. However, in prose works references may also appear within a line. In print editions a number or letter in the margin indicates a break at the first major punctuation character, but there might be several such marks. Moving references inline, as in the Budé editions, removes this ambiguity. If a section number occurs at line start it is followed by a single space, or two spaces if it marks the start of a new paragraph and the paragraph is not already marked by a preceding blank line. 
 
 ### Line numbers
-Line numbers need not be supplied for each line. Normally in print editions they are given at five-line intervals. Euterpe follows this convention, except that a single space always follows a line number. Wherever the traditional line-numbering has been altered by the editor, explicit line numbers for the re-ordered lines may be added to reset the usual line-numbering. 
+Line numbers need not be supplied for each line. Normally in print editions they are given at five-line intervals. Euterpe follows this convention, except that a single space always follows a line number, and two spaces at the start of a paragraph. Wherever the traditional line-numbering has been altered by the editor, explicit line numbers for the re-ordered lines may be added to reset the usual line-numbering. 
 
 ## Titles
 Lines containing no Greek text, separated from the surrounding text by a blank line before (or if the title is at the start of a file), and one blank line after, are interpreted as titles of short works.
@@ -41,15 +41,15 @@ Successive paragraphs in a quotation repeat the relevant quotation marks at the 
 Paragraphs are marked either by a preceding newline or by two spaces at line-start. If a reference begins the line, two spaces _after_ the reference indicates a new paragraph.
 
 ## Proper names
-Proper names and proper adjectives start with a capital letter. No other words, either at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. 
+Proper names and proper adjectives start with a capital letter. No other words, not even at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. 
 
 ## Accentuation
-The accentuation rules follow those specified in Goodwin's Greek grammar (1894, §106-146). Double-acutes on successive syllables are not permitted. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). 
+The accentuation rules follow those specified in Goodwin's Greek grammar (1894, §106-146). Acutes on successive syllables are not permitted. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). 
 
 ## Letters
 Iota subscript is preferred to adscript. The letter theta θ (Unicode 03B8) is preferred to var-theta ϑ (Unicode 03D1). Var-phi φ (Unicode 03C6) is preferred to ϕ (Unicode 03D5). Beta is β (Unicode 03B2) not ꞵ (Unicode A7B5) or ϐ (Unicode 03D0). Sigma is σ within words (Unicode 03C3) and ς at the end (Unicode  03C2). Lunate sigma ϲ (Unicode 03F2) is not used.
 
 ### Apostrophes
-The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF). All breathing marks are combined with the letter to which they refer, e.g. ᾽Α is always encoded as Ἀ.
+The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF) or closing single quote (Unicode 2019). All breathing marks are combined with the letter to which they refer, e.g. ᾽Α is always encoded as Ἀ.
 
 
