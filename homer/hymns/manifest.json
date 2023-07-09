@@ -1,3 +1,4 @@
 {
-    "edition":"T.W. Allen, W.R. Halliday, E.E. Sikes (eds). The Homeric Hymns, Oxford: Clarendon Press, 1936."
+    "edition":"T.W. Allen, W.R. Halliday, E.E. Sikes (eds). The Homeric Hymns, Oxford: Clarendon Press, 1936.",
+    "changes":["Decapitalised non-proper names","moved line-nmbers to start"]
 }
