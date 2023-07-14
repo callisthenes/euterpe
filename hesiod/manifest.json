@@ -1,0 +1,20 @@
+{
+    "edition":"Friedrich Solmsen, Hesiodi Theogonia Opera et Dies Scutum. R. Merkelbach et M.L. West, Fragmenta Selecta. Oxford: Clarendon Press, 1970",
+    "changes":["Decapitalised non-proper names","moved line-numbers to start", "Converted lunate to regular sigmas"],
+    "correction-states":[
+    	{"designation":"Theogonia","status":"in preparation"},
+    	{"designation":"Opera et Dies","status":"bronze"},
+    	{"designation":"Scutum","status":"in preparation"},
+    	{"designation":"Mulierum Catalogus","status":"in preparation"},
+    	{"designation":"Aeolidae","status":"in preparation"},
+    	{"designation":"Inachi Progenies","status":"in preparation"},
+    	{"designation":"Pelasgi Progenies","status":"in preparation"},
+    	{"designation":"Atlantides","status":"in preparation"},
+    	{"designation":"Heleni Proci","status":"in preparation"},
+    	{"designation":"Catalogus Mulierum Incertae Sedis","status":"in preparation"},
+    	{"designation":"Megalai Hoiai","status":"in preparation"},
+    	{"designation":"Kycos Gamos","status":"in preparation"},
+    	{"designation":"Melampodia","status":"in preparation"},
+    	{"designation":"Perithou Katabasis","status":"in preparation"}
+    ]
+}
