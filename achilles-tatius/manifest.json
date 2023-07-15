@@ -1,0 +1,14 @@
+{
+    "edition":"Jean-Philippe Garnaud (1991). Le roman de Leucippe et Clitophon Achille Tatius d'Alexandrie; texte établi et traduit par Jean-Philippe Garnaud, Paris: Les Belles Lettres.",
+    "changes":["Decapitalised non-proper names"],
+    "correction-states":[
+    	{"designation":"I","status":"silver"},
+    	{"designation":"II","status":"silver"},
+    	{"designation":"III","status":"bronze"},
+    	{"designation":"IV","status":"silver"},
+    	{"designation":"V","status":"silver"},
+    	{"designation":"VI","status":"silver"},
+    	{"designation":"VII","status":"silver"},
+    	{"designation":"VIII","status":"silver"}
+    ]
+}
