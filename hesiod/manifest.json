@@ -2,7 +2,7 @@
     "edition":"Friedrich Solmsen, Hesiodi Theogonia Opera et Dies Scutum. R. Merkelbach et M.L. West, Fragmenta Selecta. Oxford: Clarendon Press, 1970",
     "changes":["Decapitalised non-proper names","moved line-numbers to start", "Converted lunate to regular sigmas"],
     "correction-states":[
-    	{"designation":"Theogonia","status":"in preparation"},
+    	{"designation":"Theogonia","status":"bronze"},
     	{"designation":"Opera et Dies","status":"bronze"},
     	{"designation":"Scutum","status":"in preparation"},
     	{"designation":"Mulierum Catalogus","status":"in preparation"},
