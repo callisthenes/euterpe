@@ -3,7 +3,7 @@
     "changes":["Decapitalised non-proper names","moved line-numbers to start", "Converted lunate to regular sigmas"],
     "correction-states":[
     	{"designation":"Theogonia","status":"silver"},
-    	{"designation":"Opera et Dies","status":"bronze"},
+    	{"designation":"Opera et Dies","status":"silver"},
     	{"designation":"Scutum","status":"in preparation"},
     	{"designation":"Mulierum Catalogus","status":"in preparation"},
     	{"designation":"Aeolidae","status":"in preparation"},
