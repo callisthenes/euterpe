@@ -1,0 +1,7 @@
+{
+    "edition":"D.A. RussellLibellus de Sublimitate Dionysio Longino fere adscriptus. Oxford: Clarendon Press, 1968",
+    "changes":["Decapitalised non-proper names","moved section and subsection numbers inline"],
+    "correction-states":[
+    	{"designation":"De Sublimitate","status":"bronze"}
+    ]
+}
