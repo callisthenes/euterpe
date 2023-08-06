@@ -1,0 +1,17 @@
+{
+    "edition":"V. Coulon (1962-1964). Aristophane texte établi par Victor Coulon; et traduit par Hilaire van Daele, Les Belles Lettres: Paris.",
+    "changes":["Decapitalised non-proper names","moved line-numbers to start"],
+    "correction-states":[
+    	{"designation":"vespae","status":"bronze"},
+        {"designation":"acharnenses","status":"in preparation"},
+        {"designation":"ecclesiazusae","status":"in preparation"},
+        {"designation":"lysistrata","status":"in preparation"}.
+        {"designation":"pax","status":"in preparation"},
+        {"designation":"ranae","status":"in preparation"},
+        {"designation":"aves","status":"in preparation"},
+        {"designation":"plutus","status":"in preparation"},
+        {"designation":"thesmophoriazusae","status":"in preparation"},
+        {"designation":"equites","status":"in preparation"},
+        {"designation":"nubes","status":"in preparation"}
+    ]
+}
