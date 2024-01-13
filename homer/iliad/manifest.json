@@ -4,8 +4,8 @@
     "correction-states":[
     	{"designation":"I","status":"silver"},
     	{"designation":"II","status":"silver"},
-    	{"designation":"III","status":"bronze"},
-    	{"designation":"IV","status":"in preparation"},
+    	{"designation":"III","status":"silver"},
+    	{"designation":"IV","status":"silver"},
     	{"designation":"V","status":"in preparation"},
     	{"designation":"VI","status":"in preparation"},
     	{"designation":"VII","status":"in preparation"},
