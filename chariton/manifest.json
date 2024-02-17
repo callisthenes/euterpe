@@ -1,0 +1,6 @@
+{
+    "edition":"Warren E. Blake, Chariton Aphrodisiensis De Chaerea et Callirhoe Amatoriarum Narrationum Libri Octo. Oxford: Academic Press, 1938",
+    "changes":["Decapitalised non-proper names"],
+    "correction-states":[
+    	{"designation":"all","status":"bronze"}
+}
