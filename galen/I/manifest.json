@@ -1,0 +1,7 @@
+{
+    "edition":"D. Corolus Gottlob Kühn, Caludii Galeni Opera Omnia. Volumen I. Leipzig: Libraria Car. Cnoblochii, 1821.",
+    "changes":["Decapitalised non-proper names"],
+    "correction-states":[
+        {"designation":"Galeni Paraphrastae Menedoti Adhortatio ad Artes Addiscendas","status":"bronze"}
+     ]
+}
