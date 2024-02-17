@@ -1,13 +1,11 @@
 # Plain text format
-The Euterpe texts are encoded in standard Unicode, and contain no explicit markup. 
+The Euterpe texts are encoded in standard Unicode. To preserve their readbility in the absence of any supporting software they are structured to facilitate parsing and the extraction of the location of any piece of text. Although novels, plays or poems etc. have different structures, their referencing systems should be self-evident, and parsers for these different classes of text will be provided in due course, for digestion by commonly used search engines.
 
 ## Copyright
 All transcriptions (excluding translations) are, unless specified otherwise, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). To facilitate reuse, the usual practice of adding the copyright notice at the start of each file has been dispensed with. However, this should _not_ be taken to mean that the license does not apply to it.
 
 ## Format of print editions
 The formatting of print editions is ignored. Page divisions are removed and the text is allowed to run continuously. Line-breaks and associated hyphens are removed and the words joined up. All textual apparatus and notes are removed. Only formatting intrinsic to the text, such as poetic lines and paragraphs, is preserved.
-
-All texts are encoded the same way to facilitate searching. Editions using different conventions are modified to conform to the conventions described in this document.
 
 ## References
 Ancient Greek texts are traditionally subdivided on two or three levels: for example, the familiar 'chapter and verse' of the New Testament is a two-level system. However, quite often works are divided by book, chapter and section, for example, in Plato. Euterpe follows these conventions because otherwise existing references to classical texts could not be found in the corpus.
@@ -44,10 +42,10 @@ Paragraphs are marked either by a preceding newline or by two spaces at line-sta
 Proper names and proper adjectives start with a capital letter. No other words, not even at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. 
 
 ## Accentuation
-The accentuation rules follow those specified in Goodwin's Greek grammar (1894, §106-146). Acutes on successive syllables are not permitted. Diaereses are placed over vowels that do not form a diphthong with the preceding vowel (Goodwin §9). 
+Accentuation conventions vary between editions: e.g. iota subscript versus adscript, use of diaeresis to indicate resolved diphthongs, allowing two successive syllables to have acute accents. Euterpe does not attempt to normalise these, but asumes they are all equivalent.
 
 ## Letters
-Iota subscript is preferred to adscript. The letter theta θ (Unicode 03B8) is preferred to var-theta ϑ (Unicode 03D1). Var-phi φ (Unicode 03C6) is preferred to ϕ (Unicode 03D5). Beta is β (Unicode 03B2) not ꞵ (Unicode A7B5) or ϐ (Unicode 03D0). Sigma is σ within words (Unicode 03C3) and ς at the end (Unicode  03C2). Lunate sigma ϲ (Unicode 03F2) is not used.
+The letter theta θ (Unicode 03B8) is preferred to var-theta ϑ (Unicode 03D1). Var-phi φ (Unicode 03C6) is preferred to ϕ (Unicode 03D5). Beta is β (Unicode 03B2) not ꞵ (Unicode A7B5) or ϐ (Unicode 03D0). Sigma is σ within words (Unicode 03C3) and ς at the end (Unicode  03C2). Lunate sigma ϲ (Unicode 03F2) is not used.
 
 ### Apostrophes
 The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF) or closing single quote (Unicode 2019). All breathing marks are combined with the letter to which they refer, e.g. ᾽Α is always encoded as Ἀ.
