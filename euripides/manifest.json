@@ -1,0 +1,18 @@
+{
+    "edition":"James Diggle (1982). Euripidis Fabulae: Volume II: Supplices, Electra, Hercules, Troades, Iphigenia in Tauris, Ion. Oxford: Clarendon Press.",
+    "changes":["moved line-numbers to start","decapitalised non-proper names"],
+    "correction-states":[
+        {"designation":"Alcestis","status":"in preparation"},
+        {"designation":"Cyclops","status":"in preparation"},
+        {"designation":"Electra","status":"in preparation"},
+        {"designation":"Hecuba","status":"in preparation"},
+        {"designation":"Heraclidae","status":"in preparation"},
+        {"designation":"Hercules","status":"silver"},
+        {"designation":"Hippolytus","status":"in preparation"},
+        {"designation":"Ion","status":"in preparation"},
+        {"designation":"Iphigenia in Tauris","status":"in preparation"},
+        {"designation":"Medea","status":"in preparation"},
+        {"designation":"Supplices","status":"in preparation"},
+        {"designation":"Troades","status":"in preparation"}
+    ]
+}
