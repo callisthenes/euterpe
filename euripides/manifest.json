@@ -1,6 +1,6 @@
 {
-    "edition":"James Diggle (1982). Euripidis Fabulae: Volume II: Supplices, Electra, Hercules, Troades, Iphigenia in Tauris, Ion. Oxford: Clarendon Press.",
-    "changes":["moved line-numbers to start","decapitalised non-proper names"],
+    "edition":"James Diggle (1981-1994). Euripidis Fabulae. Oxford: Clarendon Press.",
+    "changes":["moved line-numbers to start","lunate to medial and final sigmas","decapitalised non-proper names"],
     "correction-states":[
         {"designation":"Alcestis","status":"in preparation"},
         {"designation":"Cyclops","status":"in preparation"},
