@@ -37,7 +37,7 @@ Successive paragraphs in a quotation repeat the relevant quotation marks at the 
 Paragraphs are marked either by a preceding newline or by two spaces at line-start. If a reference begins the line, two spaces _after_ the reference indicates a new paragraph.
 
 ## Proper names
-Proper names and proper adjectives start with a capital letter. No other words, not even at sentence or paragraph start, are capitalised. Capitalising only proper names facilitates searching. 
+Proper names and proper adjectives start with a capital letter. No other words, at the start of sentences, paragraphs or quotations are capitalised. This is to facilitate searching and eliminates the need for explicit markup for proper names.
 
 ## Accentuation
 Accentuation conventions vary between editions: e.g. iota subscript versus adscript, use of diaeresis to indicate resolved diphthongs, allowing two successive syllables to have acute accents. Euterpe does not attempt to normalise these, but asumes they are all equivalent.
@@ -47,5 +47,3 @@ The letter theta θ (Unicode 03B8) is preferred to var-theta ϑ (Unicode 03D1). 
 
 ### Apostrophes
 The apostrophe character in Greek text is the Greek koronis (Unicode IFBD), _not_ the Greek psili (Unicode IFBF) or closing single quote (Unicode 2019). All breathing marks are combined with the letter to which they refer, e.g. ᾽Α is always encoded as Ἀ.
-
-
