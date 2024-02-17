@@ -5,12 +5,10 @@ Euterpe texts are encoded in standard Unicode. Although novels, plays or poems e
 All transcriptions (excluding translations) are, unless specified otherwise, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). To facilitate reuse, the usual practice of adding the copyright notice at the start of each file has been dispensed with. However, this should _not_ be taken to mean that the license does not apply to it.
 
 ## Format of print editions
-The formatting of print editions is ignored. Page divisions are removed and the text is allowed to run continuously. Line-breaks and associated hyphens are removed and the words joined up. All textual apparatus and notes are removed. Only formatting intrinsic to the text, such as poetic lines and paragraphs, is preserved.
+The formatting of print editions is ignored. Page divisions are removed and the text is allowed to run continuously. Line-breaks and associated hyphens are removed in prose texts and the words joined up. Hyphens in poetic texts are preserved. All textual apparatus and notes are removed. Only formatting intrinsic to the text, such as poetic lines and paragraphs, is preserved.
 
 ## References
 Ancient Greek texts are traditionally subdivided on two or three levels: for example, the familiar 'chapter and verse' of the New Testament is a two-level system. However, quite often works are divided by book, chapter and section, for example, in Plato. Euterpe follows these conventions because otherwise existing references to classical texts could not be found in the corpus.
-
-The ordering of references is described in the manifest document provided with each set of texts encoded using the same conventions. References are nested implicitly, not explicitly. For example, the fact that a section is within a chapter can be inferred from the manifest, or from the frequency of chapter and section references.
 
 ### File names
 The name of a file, minus its extension, is taken as the topmost division of a work. e.g. VI.txt is the name of book 6 or VI of the Iliad. Prose works have the extension .md to force line-wrapping on github, but follow the same plain text format, i.e. they are _not_ in markdown format.
