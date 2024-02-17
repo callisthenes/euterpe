@@ -1,5 +1,5 @@
 # Plain text format
-The Euterpe texts are encoded in standard Unicode. To preserve their readbility in the absence of any supporting software they are structured to facilitate parsing and the extraction of the location of any piece of text. Although novels, plays or poems etc. have different structures, their referencing systems should be self-evident, and parsers for these different classes of text will be provided in due course, for digestion by commonly used search engines.
+Euterpe texts are encoded in standard Unicode. Although novels, plays or poems etc. have different structures, their referencing systems should be self-evident, and parsers for these different classes of text will be provided in due course, for digestion by commonly used search engines.
 
 ## Copyright
 All transcriptions (excluding translations) are, unless specified otherwise, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). To facilitate reuse, the usual practice of adding the copyright notice at the start of each file has been dispensed with. However, this should _not_ be taken to mean that the license does not apply to it.
