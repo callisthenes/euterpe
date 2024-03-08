@@ -3,15 +3,22 @@
     "changes":["moved line-numbers to start","lunate to medial and final sigmas","decapitalised non-proper names"],
     "correction-states":[
         {"designation":"Alcestis","status":"in preparation"},
+        {"designation":"Andromacha","status":"in preparation"},
+        {"designation":"Bacchae","status":"in preparation"},
         {"designation":"Cyclops","status":"in preparation"},
         {"designation":"Electra","status":"in preparation"},
         {"designation":"Hecuba","status":"in preparation"},
+        {"designation":"Helena","status":"in preparation"},
         {"designation":"Heraclidae","status":"in preparation"},
         {"designation":"Hercules","status":"silver"},
         {"designation":"Hippolytus","status":"in preparation"},
         {"designation":"Ion","status":"in preparation"},
+        {"designation":"Iphigenia aulidensis","status":"in preparation"},
         {"designation":"Iphigenia in Tauris","status":"in preparation"},
         {"designation":"Medea","status":"in preparation"},
+        {"designation":"Orestes","status":"in preparation"},
+        {"designation":"Phoenissae","status":"in preparation"},
+        {"designation":"Rhesus","status":"in preparation"},
         {"designation":"Supplices","status":"in preparation"},
         {"designation":"Troades","status":"in preparation"}
     ]
