@@ -1,5 +1,5 @@
 {
-    "edition":"M.L. West (1998).  Homeri Ilias / recensuit, testimonia congessit Martin L. West, Teubner: Leipzig",
+    "edition":"M.L. West (1998). Homeri Ilias recensuit, testimonia congessit Martin L. West, Teubner: Leipzig",
     "changes":["Decapitalised non-proper names"],
     "correction-states":[
     	{"designation":"I","status":"silver"},
@@ -10,7 +10,7 @@
     	{"designation":"VI","status":"silver"},
     	{"designation":"VII","status":"silver"},
     	{"designation":"VIII","status":"silver"},
-    	{"designation":"IX","status":"in preparation"},
+    	{"designation":"IX","status":"silver"},
     	{"designation":"X","status":"in preparation"},
     	{"designation":"XI","status":"in preparation"},
     	{"designation":"XII","status":"in preparation"},
@@ -25,16 +25,6 @@
     	{"designation":"XXI","status":"in preparation"},
     	{"designation":"XXII","status":"in preparation"},
     	{"designation":"XXIII","status":"in preparation"},
-    	{"designation":"XXIV","status":"in preparation"},
-    	{"designation":"XXV","status":"in preparation"},
-    	{"designation":"XXVI","status":"in preparation"},
-    	{"designation":"XXVII","status":"in preparation"},
-    	{"designation":"XXVIII","status":"in preparation"},
-    	{"designation":"XXIX","status":"in preparation"},
-    	{"designation":"XXX","status":"in preparation"},
-    	{"designation":"XXXI","status":"in preparation"},
-    	{"designation":"XXXII","status":"in preparation"},
-    	{"designation":"XXXIII","status":"in preparation"},
-    	{"designation":"XXXIV","status":"in preparation"}
+    	{"designation":"XXIV","status":"in preparation"}
     ]
 }
