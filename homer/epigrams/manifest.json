@@ -1,0 +1,23 @@
+{
+    "edition":"Hugh G. Evelyn-White (1914). Hesiod The Homeric Hymns and Homerica, William Heinemann: London and New York",
+    "changes":["Decapitalised non-proper names","moved line-numbers to start"],
+    "correction-states":[
+    	{"designation":"I","status":"silver"},
+    	{"designation":"II","status":"silver"},
+    	{"designation":"III","status":"silver"},
+    	{"designation":"IV","status":"silver"},
+    	{"designation":"V","status":"silver"},
+    	{"designation":"VI","status":"silver"},
+    	{"designation":"VII","status":"silver"},
+    	{"designation":"VIII","status":"silver"},
+    	{"designation":"IX","status":"silver"},
+    	{"designation":"X","status":"silver"},
+    	{"designation":"XI","status":"silver"},
+    	{"designation":"XII","status":"silver"},
+    	{"designation":"XIII","status":"silver"},
+    	{"designation":"XIV","status":"silver"},
+    	{"designation":"XV","status":"silver"},
+    	{"designation":"XVI","status":"silver"},
+    	{"designation":"XVII","status":"silver"}
+    ]
+}
